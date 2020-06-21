@@ -9,13 +9,13 @@
 3. 点击浏览器中已加载的Tampermonkey-获取新脚本-点击GreasyFork-搜索知网下载助手-选择作者为`wyn665817`的插件-点击安装
 4. 可以直接访问：
    [知网下载助手](https://greasyfork.org/zh-CN/scripts/371938-%E7%9F%A5%E7%BD%91%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
-   进行下载
+   -点击安装
 5. 打开知网-随意搜索一篇文章-在文章搜索页面点击`下载`-直接下载pdf格式文献
 ### (不能翻墙情况下）
-1. 访问[TamperMonkey](https://www.tampermonkey.net/)下载`Tampermonkey Stable`
+1. 访问:[TamperMonkey](https://www.tampermonkey.net/)下载`Tampermonkey Stable`
 2. 访问：
    [知网下载助手](https://greasyfork.org/zh-CN/scripts/371938-%E7%9F%A5%E7%BD%91%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
-   进行下载
+   -点击安装
 3. 打开知网-随意搜索一篇文章-在文章搜索页面点击`下载`-直接下载pdf格式文献
 
 ## 使用IDM下载论文
